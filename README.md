@@ -2,8 +2,10 @@
 Commands for Server setup
 After cloning the code from the repo. Follow the commands mentioned below.
 
-Open the terminal and run,
+1. Open the terminal and run,
+
 npm install
 
-To start the server run
+2. To start the server run
+
 npm start
