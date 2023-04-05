@@ -28,5 +28,5 @@ http://localhost:8000/url/short-url
 
 BodyParams
 {
-    url:original URL
+    url:link
 }
