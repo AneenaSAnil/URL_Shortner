@@ -7,6 +7,6 @@ const router = express.Router();
 
 router.post("/", generateShortUrl);
 
-router.get("/url", getShortUrl);
+router.get("/short-url", getShortUrl);
 
 module.exports = router;
